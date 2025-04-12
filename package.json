@@ -6,5 +6,25 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "name": "unit4icecream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awall26/Unit4IceCream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Awall26/Unit4IceCream/issues"
+  },
+  "homepage": "https://github.com/Awall26/Unit4IceCream#readme"
 }
